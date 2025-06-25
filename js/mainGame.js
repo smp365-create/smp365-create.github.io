@@ -199,6 +199,26 @@ const gameData = {
       "ring 3": [0, ["quiet"]],
     }
   },
+ "21": {
+  text: "You’re gifted a private royal lesson. What’s it in?",
+  image: "smaller_images/R13.png",
+  choices: {
+    "Fencing with the palace guard": [22, []],
+    "Painting ancient family portraits": [22, []],
+    "Decoding ancient scrolls in the royal library": [22, []],
+    "Ballroom dancing with a mysterious tutor": [22, []]
+  }
+},
+"22": {
+  text: "Your secret hideaway in the palace is...",
+  image: "smaller_images/R19.png",
+  choices: {
+    "A glass conservatory filled with orchids": [20, []],
+    "A candle-lit tower room with velvet cushions": [20, []],
+    "A hidden passage beneath the stables": [20, []],
+    "A balcony overlooking the sea cliffs": [20, []]
+  }
+},
   "0": {}
 };
 const personalities = { 
