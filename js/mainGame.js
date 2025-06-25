@@ -203,10 +203,7 @@ const gameData = {
   text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/z1.png",
   choices: {
-    "A glass conservatory filled with orchids": [24, []],
-    "A candle-lit tower room with velvet cushions": [24, []],
-    "A hidden passage beneath the stables": [24, []],
-    "A balcony overlooking the sea cliffs": [24, []]
+    "Take a Screenshot and Share ID": [24, []],
   }
 },
 "22": {
