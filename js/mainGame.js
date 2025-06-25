@@ -195,30 +195,83 @@ const gameData = {
     isImageQuestion: true,
     choices: {
       "ring 1": [21, ["radiant"]],
-      "ring 2": [21, ["grace"]],
-      "ring 3": [21, ["quiet"]],
+      "ring 2": [22, ["grace"]],
+      "ring 3": [23, ["quiet"]],
     }
   },
  "21": {
   text: "You’re gifted a private royal lesson. What’s it in?",
   image: "smaller_images/R13.png",
   choices: {
-    "Fencing with the palace guard": [22, []],
-    "Painting ancient family portraits": [22, []],
-    "Decoding ancient scrolls in the royal library": [22, []],
-    "Ballroom dancing with a mysterious tutor": [22, []]
+    "Fencing with the palace guard": [24, []],
+    "Painting ancient family portraits": [24, []],
+    "Decoding ancient scrolls in the royal library": [24, []],
+    "Ballroom dancing with a mysterious tutor": [24, []]
   }
 },
 "22": {
   text: "Your secret hideaway in the palace is...",
   image: "smaller_images/R19.png",
   choices: {
-    "A glass conservatory filled with orchids": [0, []],
-    "A candle-lit tower room with velvet cushions": [0, []],
-    "A hidden passage beneath the stables": [0, []],
-    "A balcony overlooking the sea cliffs": [0, []]
+    "A glass conservatory filled with orchids": [25, []],
+    "A candle-lit tower room with velvet cushions": [25, []],
+    "A hidden passage beneath the stables": [25, []],
+    "A balcony overlooking the sea cliffs": [25, []]
   }
 },
+"23": {
+  text: "What’s your go-to royal breakfast?",
+  image: "smaller_images/R23.png",
+  choices: {
+    "Buttered crumpets and strawberry jam": [26, []],
+    "A perfectly poached egg with herbs": [26, []],
+    "A smoothie with secret garden berries": [26, []],
+    "Leftover cake from last night's banquet": [26, []]
+  }
+},
+"24": {
+  text: "You’re handed a mysterious scroll. What do you do?",
+  image: "smaller_images/R24.png",
+  choices: {
+    "Break the seal and read it immediately": [27, []],
+    "Scan for magical traps": [27, []],
+    "Hand it off to your royal advisor": [27, []],
+    "Hide it in your cloak for later": [27, []]
+  }
+},
+"25": {
+  text: "Which room in the palace feels most like you?",
+  image: "smaller_images/R25.png",
+  choices: {
+    "The moonlit observatory": [28, []],
+    "The overgrown rose garden": [28, []],
+    "The secret library wing": [28, []],
+    "The underground wine cellar": [28, []]
+  }
+},
+"26": {
+  text: "Your coronation song plays. What’s the vibe?",
+  image: "smaller_images/R26.png",
+  choices: {
+    "Harp and choir in a cathedral": [29, []],
+    "A soft piano ballad under moonlight": [29, []],
+    "A dramatic full-orchestra overture": [29, []],
+    "Electric guitar shredding in the throne room": [29, []]
+  }
+},
+"27": {
+  text: "What accessory completes your coronation outfit?",
+  image: "smaller_images/R27.png",
+},
+ "28": {
+  text: "What accessory completes your coronation outfit?",
+  image: "smaller_images/R27.png",
+},
+"29": {
+  text: "What accessory completes your coronation outfit?",
+  image: "smaller_images/R27.png",
+},
+ 
   "0": {}
 };
 const personalities = { 
