@@ -194,9 +194,9 @@ const gameData = {
     image: "smaller_images/R21.png",
     isImageQuestion: true,
     choices: {
-      "ring 1": [0, ["radiant"]],
-      "ring 2": [0, ["grace"]],
-      "ring 3": [0, ["quiet"]],
+      "ring 1": [21, ["radiant"]],
+      "ring 2": [21, ["grace"]],
+      "ring 3": [21, ["quiet"]],
     }
   },
  "21": {
@@ -213,10 +213,10 @@ const gameData = {
   text: "Your secret hideaway in the palace is...",
   image: "smaller_images/R19.png",
   choices: {
-    "A glass conservatory filled with orchids": [20, []],
+    "A glass conservatory filled with orchids": [0, []],
     "A candle-lit tower room with velvet cushions": [20, []],
-    "A hidden passage beneath the stables": [20, []],
-    "A balcony overlooking the sea cliffs": [20, []]
+    "A hidden passage beneath the stables": [0, []],
+    "A balcony overlooking the sea cliffs": [0, []]
   }
 },
   "0": {}
