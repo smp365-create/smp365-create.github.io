@@ -233,10 +233,8 @@ const gameData = {
   text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/Z1.png",
   choices: {
-        "Free pastries every Sunday": [27, []],
-    "Every citizen gets a voice": [27, []],
-    "National siesta hour": [27, []],
-    "A festival of lights to celebrate magic": [27, []]
+        "Take a Screenshot": [27, []],
+    "Retake Quiz": [27, []],
   }
 },
 "25": {
