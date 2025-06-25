@@ -214,7 +214,7 @@ const gameData = {
   image: "smaller_images/R19.png",
   choices: {
     "A glass conservatory filled with orchids": [0, []],
-    "A candle-lit tower room with velvet cushions": [20, []],
+    "A candle-lit tower room with velvet cushions": [0, []],
     "A hidden passage beneath the stables": [0, []],
     "A balcony overlooking the sea cliffs": [0, []]
   }
