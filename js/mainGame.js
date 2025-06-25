@@ -252,7 +252,7 @@ const gameData = {
 },
  "27": {
   "text": "At the Royal Gala, someone challenges you to a duel. What do you do?",
-  "image": "smaller_images/R32.png",
+  "image": "smaller_images/Z1.png",
   "choices": {
     "Accept, and dazzle them with swordplay": [30, []],
     "Outwit them with clever diplomacy": [30, []],
