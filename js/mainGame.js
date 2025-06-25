@@ -259,6 +259,43 @@ const gameData = {
     "Electric guitar shredding in the throne room": [29, []]
   }
 },
+ "27": {
+  "text": "At the Royal Gala, someone challenges you to a duel. What do you do?",
+  "image": "smaller_images/R32.png",
+  "choices": {
+    "Accept, and dazzle them with swordplay": [30, []],
+    "Outwit them with clever diplomacy": [30, []],
+    "Distract them with a dramatic outfit change": [30, []],
+    "Sneak away and leave a decoy behind": [30, []]
+  }
+},
+ "28": {
+  "text": "You’re designing a new royal crest. What’s at the center?",
+  "image": "smaller_images/R34.png",
+  "choices": {
+    "A crown wrapped in vines": [30, []],
+    "A phoenix rising from a book": [30, []],
+    "A sword piercing a star": [30, []],
+    "A rose dripping with dew": [30, []]
+  }
+},
+ "29": {
+  "text": "The crown is placed on your head. What do you whisper to yourself?",
+  "image": "smaller_images/R36.png",
+  "choices": {
+    "“I was born for this.”": [30, []],
+    "“Let’s make some history.”": [30, []],
+    "“Stay true to who you are.”": [30, []],
+    "“What would my cat do?”": [30, []],
+  }
+},
+ "30": {
+  "text": "The crown is placed on your head. What do you whisper to yourself?",
+  "image": "smaller_images/R36.png",
+  "choices": {
+    "“I was born for this.”": [0, []],
+  }
+},
 
   "0": {}
 };
