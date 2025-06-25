@@ -203,10 +203,10 @@ const gameData = {
   text: "You’re gifted a private royal lesson. What’s it in?",
   image: "smaller_images/A1.png",
   choices: {
-    "Fencing with the palace guard": [24, []],
-    "Painting ancient family portraits": [24, []],
-    "Decoding ancient scrolls in the royal library": [24, []],
-    "Ballroom dancing with a mysterious tutor": [24, []]
+    "Fencing with the palace guard": [27, []],
+    "Painting ancient family portraits": [27, []],
+    "Decoding ancient scrolls in the royal library": [27, []],
+    "Ballroom dancing with a mysterious tutor": [27, []]
   }
 },
 "22": {
