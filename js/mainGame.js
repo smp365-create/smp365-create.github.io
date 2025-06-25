@@ -199,11 +199,14 @@ const gameData = {
       "ring 3": [23, ["quiet"]],
     }
   },
- "21": {
-  text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/Z1.png",
+"21": {
+  text: "Your secret hideaway in the palace is...",
+  image: "smaller_images/A1.png",
   choices: {
-    "Take a Screenshot and Share Your ID": [28, []],
+    "A glass conservatory filled with orchids": [24, []],
+    "A candle-lit tower room with velvet cushions": [24, []],
+    "A hidden passage beneath the stables": [24, []],
+    "A balcony overlooking the sea cliffs": [24, []]
   }
 },
 "22": {
