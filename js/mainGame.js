@@ -201,7 +201,7 @@ const gameData = {
   },
 "21": {
   text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/Z1.png",
+  image: "smaller_images/z1.png",
   choices: {
     "A glass conservatory filled with orchids": [24, []],
     "A candle-lit tower room with velvet cushions": [24, []],
@@ -231,7 +231,7 @@ const gameData = {
 },
 "24": {
   text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/Z1.png",
+  image: "smaller_images/z1.png",
   choices: {
         "Take a Screenshot": [27, []],
     "Retake Quiz": [27, []],
