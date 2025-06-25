@@ -230,11 +230,13 @@ const gameData = {
   }
 },
 "24": {
-  text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/z1.png",
+ text: "Your have just been crowned and the celebration begins. What do you do as royalty...",
+  image: "smaller_images/A1.png",
   choices: {
-        "Take a Screenshot": [27, []],
-    "Retake Quiz": [27, []],
+    "Free pastries every Sunday": [27, []],
+    "Every citizen gets a voice": [27, []],
+    "National siesta hour": [27, []],
+    "A festival of lights to celebrate magic": [27, []]
   }
 },
 "25": {
