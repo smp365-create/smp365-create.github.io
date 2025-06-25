@@ -1,7 +1,7 @@
 const gameData = {
  "1": {
     text: "Your royal grandma schedules your day. What do you secretly cancel?",
-    image: "smaller_images/snackies.png",
+    image: "smaller_images/R2.png",
     choices: {
       "Princess etiquette lessons": [2, []],
       "State dinner with boring nobles": [2, []],
@@ -11,7 +11,7 @@ const gameData = {
   },
   "2": {
     text: "Your official Genovian ride is a...",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R3.png",
     choices: {
       "Horse-drawn carriage": [3, []],
       "Convertible Mini Cooper": [3, []],
@@ -21,7 +21,7 @@ const gameData = {
   },
   "3": {
     text: "Your royal pet is:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R4.png",
     choices: {
       "A sassy cat with a tiara": [4, []],
       "A corgi named Sir Waffles": [4, []],
@@ -31,7 +31,7 @@ const gameData = {
   },
   "4": {
     text: "Queen Clarisse offers you a royal snack. What do you pick?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R5.png",
     choices: {
       "Chocolate-dipped strawberries": [5, []],
       "Mini sandwiches with no crusts": [5, []],
@@ -41,7 +41,7 @@ const gameData = {
   },
   "5": {
     text: "How do you handle your first press conference?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R6.png",
     choices: {
       "Trip, giggle, then win them over": [6, []],
       "Answer every question with poise": [6, []],
@@ -51,7 +51,7 @@ const gameData = {
   },
   "6": {
     text: "Your royal bedroom vibe is:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R7.png",
     choices: {
       "Canopy bed and sparkle lights": [7, []],
       "Wall-to-wall bookshelves": [7, []],
@@ -61,7 +61,7 @@ const gameData = {
   },
   "7": {
     text: "What's your Genovian motto?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R8.png",
     choices: {
       "Courage with a crown": [8, []],
       "Glitter and grit": [8, []],
@@ -71,7 +71,7 @@ const gameData = {
   },
   "8": {
     text: "Who’s your royal bestie?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R9.png",
     choices: {
       "Lilly – brutally honest but loyal": [9, []],
       "Fat Louie – your cat is your world": [9, []],
@@ -81,7 +81,7 @@ const gameData = {
   },
   "9": {
     text: "Choose a makeover outcome:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R10.png",
     choices: {
       "Princess blowout and pearls": [10, []],
       "Smoky eye and subtle sparkle": [10, []],
@@ -91,7 +91,7 @@ const gameData = {
   },
   "10": {
     text: "Your first royal decree:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R11.png",
     choices: {
       "Free pizza Fridays": [11, []],
       "Mental health days for students": [11, []],
@@ -101,7 +101,7 @@ const gameData = {
   },
   "11": {
     text: "Pick your crown style:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R12.png",
     choices: {
       "Classic tiara, diamond-studded": [12, []],
       "Minimalist gold with floral design": [12, []],
@@ -111,7 +111,7 @@ const gameData = {
   },
   "12": {
     text: "What’s your secret talent as a royal?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R13.png",
     choices: {
       "Making people feel heard": [13, []],
       "Memorizing state trivia": [13, []],
@@ -121,7 +121,7 @@ const gameData = {
   },
   "13": {
     text: "What club would you start at the royal academy?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R14.png",
     choices: {
       "Genovian Feminist Alliance": [14, []],
       "Royal Chess Society": [14, []],
@@ -131,7 +131,7 @@ const gameData = {
   },
   "14": {
     text: "You’re told to host a royal gala. What’s your theme?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R15.png",
     choices: {
       "Enchanted Garden": [15, []],
       "Future Royalty (metallics + lasers!)": [15, []],
@@ -141,7 +141,7 @@ const gameData = {
   },
   "15": {
     text: "A tabloid posts a weird photo of you. You:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R16.png",
     choices: {
       "Laugh it off, then post a meme of it": [16, []],
       "Write an open letter with grace": [16, []],
@@ -151,7 +151,7 @@ const gameData = {
   },
   "16": {
     text: "Queen Clarisse gifts you an heirloom. You:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R17.png",
     choices: {
       "Cherish it and write her a thank you letter": [17, []],
       "Incorporate it into every outfit": [17, []],
@@ -161,7 +161,7 @@ const gameData = {
   },
   "17": {
     text: "Who’s your Genovian crush?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R18.png",
     choices: {
       "The mysterious violinist": [18, []],
       "The rebel prince who rides a scooter": [18, []],
@@ -171,7 +171,7 @@ const gameData = {
   },
   "18": {
     text: "What’s your final test before being crowned?",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R19.png",
     choices: {
       "Defend a law in the Genovian youth senate": [19, []],
       "Survive a surprise fashion emergency": [19, []],
@@ -181,7 +181,7 @@ const gameData = {
   }, 
 "19": {
     text: "Choose a ring style at the royal jeweler:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R20.png",
     choices: {
       "A heart-shaped ruby": [20, []],
       "A minimalist silver band": [20, []],
@@ -191,13 +191,12 @@ const gameData = {
   },
   "20": {
     text: "Choose your destiny ring:",
-    image: "smaller_images/where_to.png",
+    image: "smaller_images/R21.png",
     isImageQuestion: true,
     choices: {
       "ring 1": [0, ["radiant"]],
       "ring 2": [0, ["grace"]],
       "ring 3": [0, ["quiet"]],
-      "ring 4": [0, ["mischief"]]
     }
   },
   "0": {}
