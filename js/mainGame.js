@@ -194,7 +194,7 @@ const gameData = {
     image: "smaller_images/R21.png",
     isImageQuestion: true,
     choices: {
-      "ring 1": [27, ["radiant"]],
+      "ring 1": [21], ["radiant"]],
       "ring 2": [22, ["grace"]],
       "ring 3": [23, ["quiet"]],
     }
