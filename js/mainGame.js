@@ -194,10 +194,10 @@ const gameData = {
     image: "images/ring_choice.png",
     isImageQuestion: true,
     choices: {
-      "ring1.jpg": [0, ["radiant"]],
-      "ring2.jpg": [0, ["grace"]],
-      "ring3.jpg": [0, ["quiet"]],
-      "ring4.jpg": [0, ["mischief"]]
+      "ring 1": [0, ["radiant"]],
+      "ring 2": [0, ["grace"]],
+      "ring 3": [0, ["quiet"]],
+      "ring 4": [0, ["mischief"]]
     }
   },
   "0": {}
