@@ -259,28 +259,7 @@ const gameData = {
     "Electric guitar shredding in the throne room": [29, []]
   }
 },
-"27": {
-  text: "Behold your coronation accessory!",
-  image: "smaller_images/R1.png",
-  choices: {
-    "Take a Screenshot and Share!": [0, []]
-  }
-},
-"28": {
-  text: "Behold your coronation accessory!",
-  image: "smaller_images/R1.png",
-  choices: {
-    "Take a Screenshot and Share!": [0, []]
-  }
-},
-"29": {
-  text: "Behold your coronation accessory!",
-  image: "smaller_images/R1.png",
-  choices: {
-    "Take a Screenshot and Share!": [0, []]
-  }
-},
- 
+
   "0": {}
 };
 const personalities = { 
