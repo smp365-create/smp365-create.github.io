@@ -223,10 +223,10 @@ const gameData = {
  text: "Your have just been crowned and the celebration begins. What do you do as royalty...",
   image: "smaller_images/A1.png",
   choices: {
-    "Free pastries every Sunday": [25, []],
-    "Every citizen gets a voice": [25, []],
-    "National siesta hour": [25, []],
-    "A festival of lights to celebrate magic": [25, []]
+    "Free pastries every Sunday": [26, []],
+    "Every citizen gets a voice": [26, []],
+    "National siesta hour": [26, []],
+    "A festival of lights to celebrate magic": [26, []]
   }
 },
 "24": {
