@@ -179,21 +179,34 @@ const gameData = {
       "Master the curtsy in heels": [19, []]
     }
   }, 
-
+"19": {
+    text: "Choose a ring style at the royal jeweler:",
+    image: "images/ring_style.png",
+    choices: {
+      "A heart-shaped ruby": [20, []],
+      "A minimalist silver band": [20, []],
+      "A vine-wrapped moonstone": [20, []],
+      "A chunky crown-shaped emerald": [20, []]
+    }
+  },
+  "20": {
+    text: "Choose your destiny ring:",
+    image: "images/ring_choice.png",
+    isImageQuestion: true,
+    choices: {
+      "ring1.jpg": [0, ["radiant"]],
+      "ring2.jpg": [0, ["grace"]],
+      "ring3.jpg": [0, ["quiet"]],
+      "ring4.jpg": [0, ["mischief"]]
+    }
+  },
+  "0": {}
 };
 const personalities = { 
-    "Onion": 0,
-    "Broccoli": 0,
-    "Garlic": 0, // The Leader
-    "Jalapeno": 0, // The Adventurer
-    "Tomato": 0, // The Analyst
-    "Green Bean": 0, // The Connector
-    "Pumpkin": 0, // The Caregiver
-    "Carrot": 0, // The Visionary
-    "Potato": 0, // The Realist
-    "Napa Cabbage": 0, // The Harmonizer
-    "Bok Choy": 0, // The Performer
-    "Leek": 0 // The Investigator
+  "radiant": 0,
+  "grace": 0,
+  "quiet": 0,
+  "mischief": 0
 };
 
 let currentState = 1;
