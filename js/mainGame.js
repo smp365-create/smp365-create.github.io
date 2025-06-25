@@ -279,7 +279,7 @@ const gameData = {
   choices: {
     "Take a Screenshot and Share!": [0, []]
   }
-}
+},
  
   "0": {}
 };
