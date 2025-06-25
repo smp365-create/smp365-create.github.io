@@ -230,21 +230,21 @@ const gameData = {
   }
 },
 "24": {
-  text: "Your Royal ID",
+  text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
     "Take a Screenshot and Share Your ID": [27, []],
   }
 },
 "25": {
-  text: "Your Royal ID",
+  text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
     "Take a Screenshot and Share Your ID": [28, []],
   }
 },
 "26": {
-  text: "Your Royal ID",
+  text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
     "Take a Screenshot and Share Your ID": [29, []],
