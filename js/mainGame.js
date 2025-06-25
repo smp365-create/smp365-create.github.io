@@ -201,7 +201,7 @@ const gameData = {
   },
  "21": {
   text: "You’re gifted a private royal lesson. What’s it in?",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/A1.png",
   choices: {
     "Fencing with the palace guard": [24, []],
     "Painting ancient family portraits": [24, []],
@@ -211,7 +211,7 @@ const gameData = {
 },
 "22": {
   text: "Your secret hideaway in the palace is...",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/A1.png",
   choices: {
     "A glass conservatory filled with orchids": [25, []],
     "A candle-lit tower room with velvet cushions": [25, []],
@@ -221,7 +221,7 @@ const gameData = {
 },
 "23": {
  text: "Your have just been crowned and the celebration begins. What do you do as royalty...",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/A1.png",
   choices: {
     "Free pastries every Sunday": [25, []],
     "Every citizen gets a voice": [25, []],
