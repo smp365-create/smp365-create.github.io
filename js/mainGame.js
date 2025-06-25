@@ -201,7 +201,7 @@ const gameData = {
   },
  "21": {
   text: "You’re gifted a private royal lesson. What’s it in?",
-  image: "smaller_images/R13.png",
+  image: "smaller_images/R1.png",
   choices: {
     "Fencing with the palace guard": [24, []],
     "Painting ancient family portraits": [24, []],
@@ -211,7 +211,7 @@ const gameData = {
 },
 "22": {
   text: "Your secret hideaway in the palace is...",
-  image: "smaller_images/R19.png",
+  image: "smaller_images/R1.png",
   choices: {
     "A glass conservatory filled with orchids": [25, []],
     "A candle-lit tower room with velvet cushions": [25, []],
@@ -221,7 +221,7 @@ const gameData = {
 },
 "23": {
   text: "What’s your go-to royal breakfast?",
-  image: "smaller_images/R23.png",
+  image: "smaller_images/R1.png",
   choices: {
     "Buttered crumpets and strawberry jam": [26, []],
     "A perfectly poached egg with herbs": [26, []],
@@ -231,7 +231,7 @@ const gameData = {
 },
 "24": {
   text: "You’re handed a mysterious scroll. What do you do?",
-  image: "smaller_images/R24.png",
+  image: "smaller_images/R1.png",
   choices: {
     "Break the seal and read it immediately": [27, []],
     "Scan for magical traps": [27, []],
@@ -241,7 +241,7 @@ const gameData = {
 },
 "25": {
   text: "Which room in the palace feels most like you?",
-  image: "smaller_images/R25.png",
+  image: "smaller_images/R1.png",
   choices: {
     "The moonlit observatory": [28, []],
     "The overgrown rose garden": [28, []],
@@ -251,7 +251,7 @@ const gameData = {
 },
 "26": {
   text: "Your coronation song plays. What’s the vibe?",
-  image: "smaller_images/R26.png",
+  image: "smaller_images/R1.png",
   choices: {
     "Harp and choir in a cathedral": [29, []],
     "A soft piano ballad under moonlight": [29, []],
@@ -260,17 +260,26 @@ const gameData = {
   }
 },
 "27": {
-  text: "What accessory completes your coronation outfit?",
-  image: "smaller_images/R27.png",
-},
- "28": {
-  text: "What accessory completes your coronation outfit?",
-  image: "smaller_images/R27.png",
-},
+  text: "Behold your coronation accessory!",
+  image: "smaller_images/R1.png",
+  choices: {
+    "Take a Screenshot and Share!": [0, []]
+  }
+}
+"28": {
+  text: "Behold your coronation accessory!",
+  image: "smaller_images/R1.png",
+  choices: {
+    "Take a Screenshot and Share!": [0, []]
+  }
+}
 "29": {
-  text: "What accessory completes your coronation outfit?",
-  image: "smaller_images/R27.png",
-},
+  text: "Behold your coronation accessory!",
+  image: "smaller_images/R1.png",
+  choices: {
+    "Take a Screenshot and Share!": [0, []]
+  }
+}
  
   "0": {}
 };
