@@ -230,24 +230,24 @@ const gameData = {
   }
 },
 "24": {
-  text: "You’re handed a mysterious scroll. What do you do?",
+  text: "Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
-    "Break the seal and read it immediately": [27, []],
+    "Take a Screenshot and Share Your ID": [27, []],
   }
 },
 "25": {
-  text: "Which room in the palace feels most like you?",
+  text: "Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
-    "The moonlit observatory": [28, []],
+    "Take a Screenshot and Share Your ID": [28, []],
   }
 },
 "26": {
-  text: "Your coronation song plays. What’s the vibe?",
+  text: "Your Royal ID",
   image: "smaller_images/R1.png",
   choices: {
-    "Harp and choir in a cathedral": [29, []],
+    "Take a Screenshot and Share Your ID": [29, []],
   }
 },
  "27": {
