@@ -200,10 +200,10 @@ const gameData = {
     }
   },
  "21": {
-  text: "You’re gifted a private royal lesson. What’s it in?",
-  image: "smaller_images/A1.png",
+  text: "Drumroll.....Here is Your Royal ID",
+  image: "smaller_images/Z1.png",
   choices: {
-    "Fencing with the palace guard": [24, []],
+    "Take a Screenshot and Share Your ID": [24, []],
   }
 },
 "22": {
