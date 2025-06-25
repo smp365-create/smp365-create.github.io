@@ -203,8 +203,8 @@ const gameData = {
   text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/Z1.png",
   choices: {
-    "Take a Screenshot and Share Your ID": [30, []],
-   "Take a Screenshot and Share Your ID": [30, []],
+    "Take a Screenshot and Share Your ID": [24, []],
+   "Take a Screenshot and Share Your ID": [24, []],
   }
 },
 "22": {
@@ -231,10 +231,10 @@ const gameData = {
   text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/Z1.png",
   choices: {
-        "Free pastries every Sunday": [26, []],
-    "Every citizen gets a voice": [26, []],
-    "National siesta hour": [26, []],
-    "A festival of lights to celebrate magic": [26, []]
+        "Free pastries every Sunday": [27, []],
+    "Every citizen gets a voice": [27, []],
+    "National siesta hour": [27, []],
+    "A festival of lights to celebrate magic": [27, []]
   }
 },
 "25": {
