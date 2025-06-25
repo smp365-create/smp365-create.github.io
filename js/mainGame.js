@@ -220,32 +220,32 @@ const gameData = {
   }
 },
 "23": {
-  text: "What’s your go-to royal breakfast?",
+ text: "Your have just been crowned and the celebration begins. What do you do as royalty...",
   image: "smaller_images/R1.png",
   choices: {
-    "Buttered crumpets and strawberry jam": [26, []],
-    "A perfectly poached egg with herbs": [26, []],
-    "A smoothie with secret garden berries": [26, []],
-    "Leftover cake from last night's banquet": [26, []]
+    "Free pastries every Sunday": [25, []],
+    "Every citizen gets a voice": [25, []],
+    "National siesta hour": [25, []],
+    "A festival of lights to celebrate magic": [25, []]
   }
 },
 "24": {
   text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/Z1.png",
   choices: {
     "Take a Screenshot and Share Your ID": [27, []],
   }
 },
 "25": {
   text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/Z2.png",
   choices: {
     "Take a Screenshot and Share Your ID": [28, []],
   }
 },
 "26": {
   text: "Drumroll.....Here is Your Royal ID",
-  image: "smaller_images/R1.png",
+  image: "smaller_images/Z3.png",
   choices: {
     "Take a Screenshot and Share Your ID": [29, []],
   }
