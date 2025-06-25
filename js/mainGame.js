@@ -203,8 +203,7 @@ const gameData = {
   text: "Drumroll.....Here is Your Royal ID",
   image: "smaller_images/Z1.png",
   choices: {
-    "Take a Screenshot and Share Your ID": [24, []],
-   "Take a Screenshot and Share Your ID": [24, []],
+    "Take a Screenshot and Share Your ID": [28, []],
   }
 },
 "22": {
