@@ -234,9 +234,6 @@ const gameData = {
   image: "smaller_images/R1.png",
   choices: {
     "Break the seal and read it immediately": [27, []],
-    "Scan for magical traps": [27, []],
-    "Hand it off to your royal advisor": [27, []],
-    "Hide it in your cloak for later": [27, []]
   }
 },
 "25": {
@@ -244,9 +241,6 @@ const gameData = {
   image: "smaller_images/R1.png",
   choices: {
     "The moonlit observatory": [28, []],
-    "The overgrown rose garden": [28, []],
-    "The secret library wing": [28, []],
-    "The underground wine cellar": [28, []]
   }
 },
 "26": {
@@ -254,9 +248,6 @@ const gameData = {
   image: "smaller_images/R1.png",
   choices: {
     "Harp and choir in a cathedral": [29, []],
-    "A soft piano ballad under moonlight": [29, []],
-    "A dramatic full-orchestra overture": [29, []],
-    "Electric guitar shredding in the throne room": [29, []]
   }
 },
  "27": {
